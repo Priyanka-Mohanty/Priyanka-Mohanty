@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Priyanka-Mohanty
-- 📫 reach me contact@priyanka.app
-- Website: https://www.priyanka.app/home
+- Website: https://priyankamohanty.tech/
 - Google Playstore: https://play.google.com/store/apps/dev?id=5604341949429313885
 
      Own Apps:
